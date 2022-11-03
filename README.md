@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on Angular, Java Microservies, Springboot, Micronaut, Rxjs, Ionic App
 - 🌱 I’m currently learning Python, NgRx, GraphQL, Cloud
 - 💬 Ask me about Angular, Java, Firebase, Ionic etc
-- 📫 How to reach me: [@himanshusingh2041](himanshusingh2041@gmail.com)
+- 📫 How to reach me: himanshusingh2041@gmail.com
