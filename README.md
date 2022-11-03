@@ -31,3 +31,9 @@
 
 <br />
 <br />
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [New Angular library for password validator components](https://www.npmjs.com/package/password-validator-component)
+<!-- BLOG-POST-LIST:END -->
