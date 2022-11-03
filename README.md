@@ -35,5 +35,8 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Angular library for password validator components](https://www.npmjs.com/package/password-validator-component)
+- [New Angular library for password validator components](https://www.npmjs.com/package/password-validator-component) <br />
+    - [Live Demo](https://himanshusingh2041.github.io/password-validator-component-deployed/) 
+    - [Source code for library](https://github.com/himanshusingh2041/password-validator-component) 
+    - [Source code for library consumer](https://github.com/himanshusingh2041/password-validator-component-tester) 
 <!-- BLOG-POST-LIST:END -->
