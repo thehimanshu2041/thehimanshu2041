@@ -1,4 +1,4 @@
-# Hello World !!! I am [Himanshu Kumar](https://github.com/himanshusingh2041) 👋
+# Hello World !!! I am [Himanshu Kumar](https://github.com/thehimanshu2041) 👋
 
 ### Author | Passionate Programmer
 
