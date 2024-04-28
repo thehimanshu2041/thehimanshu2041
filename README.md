@@ -2,9 +2,9 @@
 
 ### Author | Passionate Programmer
 
-- 🔭 I’m currently working on Angular, Java Microservies, Springboot, Micronaut, Rxjs, Ionic App
-- 🌱 I’m currently learning Python, NgRx, GraphQL, Cloud
-- 💬 Ask me about Angular, Java, Firebase, Ionic etc
+- 🔭 I’m currently working on Angular, React, Java Microservies, Springboot, Micronaut, Rxjs, Ionic App, Aws Cloud
+- 🌱 I’m currently learning Python, NgRx, GraphQL
+- 💬 Ask me about Angular, React, Java, Firebase, Ionic, Aws etc
 - 📫 How to reach me: himanshusingh2041@gmail.com
 
 ## 🤝 Connect with me:
@@ -30,13 +30,3 @@
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
-<br />
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [New Angular library for password validator components](https://www.npmjs.com/package/password-validator-component) <br />
-    - [Live Demo](https://himanshusingh2041.github.io/password-validator-component-deployed/) 
-    - [Source code for library](https://github.com/himanshusingh2041/password-validator-component) 
-    - [Source code for library consumer](https://github.com/himanshusingh2041/password-validator-component-tester) 
-<!-- BLOG-POST-LIST:END -->
