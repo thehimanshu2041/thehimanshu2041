@@ -2,9 +2,9 @@
 
 ### Author | Passionate Programmer
 
-- 🔭 I’m currently working on Angular, React, Java Microservies, Springboot, Micronaut, Rxjs, Ionic App, Aws Cloud
-- 🌱 I’m currently learning Python, NgRx, GraphQL
-- 💬 Ask me about Angular, React, Java, Firebase, Ionic, Aws etc
+- 🔭 I’m currently working on Java, Microservies, Micronaut, Springboot, Angular, ReactJS, Ionic, Aws, Aws Lambda.
+- 🌱 I’m currently learning Python, Machine Learning.
+- 💬 Ask me about Microservies, Angular, ReactJS, Firebase, Ionic, Aws, Aws lambda, Html5, Css3, kafka, micronaut, Springboot etc.
 - 📫 How to reach me: himanshusingh2041@gmail.com
 
 ![Himanshu's Github Profile Views](https://komarev.com/ghpvc/?username=thehimanshu2041&color=blueviolet)  
