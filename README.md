@@ -31,6 +31,7 @@
   <pre>
   A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
   technical systems to create impact. My name describes my qualities : 
+    
    H: Hardworking
    I: Innovative
    M: Methodical
