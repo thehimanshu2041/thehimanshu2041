@@ -7,7 +7,7 @@
 - 💬 Ask me about Microservies, Angular, ReactJS, Firebase, Ionic, Aws, Aws lambda, Html5, Css3, kafka, micronaut, Springboot, SpringMVC, Struts, web-components, ML, NLP etc.
 - 📫 How to reach me: himanshusingh2041@gmail.com
 
-## 🤝 Connect with me:
+## 🤝 Connect with me
 
 <a href="https://github.com/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/github.png" width="40" /></a>
 &nbsp;
