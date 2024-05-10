@@ -1,5 +1,4 @@
 # Hello World !!! I am [Himanshu Kumar](https://github.com/thehimanshu2041) 👋
-<br/>
 
 ### Author | Passionate Programmer
 
@@ -7,7 +6,6 @@
 - 🌱 I’m currently learning Python, Machine Learning.
 - 💬 Ask me about Microservies, Angular, ReactJS, Firebase, Ionic, Aws, Aws lambda, Html5, Css3, kafka, micronaut, Springboot, SpringMVC, Struts, web-components, ML, NLP etc.
 - 📫 How to reach me: himanshusingh2041@gmail.com
-<br/>
 
 ## 🤝 Connect with me:
 
@@ -26,7 +24,6 @@
 &nbsp;
 <a href="https://t.me/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/telegram.png" width="40" /></a>
 &nbsp;
-<br/>
 
 ## 🤩 What if you like my work?
 
@@ -34,7 +31,6 @@
   <li>You can Star ⭐ the repositories you like.</li>
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
-<br/>
 
 ![Himanshu's Github Profile Views](https://komarev.com/ghpvc/?username=thehimanshu2041&color=blueviolet)  
 
