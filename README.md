@@ -13,7 +13,7 @@
 
 <a href="https://github.com/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/github.png" width="40" /></a>
 <a href="https://www.facebook.com/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/facebook.png" width="40" /></a>
-<a href="https://www.instagram.com/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/instagram.png" width="65" /></a>
+<a href="https://www.instagram.com/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/instagram.png" width="40" /></a>
 <a href="https://www.threads.net/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/thread.png" width="40" /></a>
 <a href="https://www.twitter.com/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/twitter.png" width="40" /></a>
 <a href="https://www.linkedin.com/in/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/linkedin.png" width="40" /></a>
