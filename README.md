@@ -28,3 +28,9 @@
 ## 👨‍💻 Languages and Tools
 
 ![Himanshu's Github Profile Views](https://komarev.com/ghpvc/?username=thehimanshu2041&color=blueviolet)  
+
+<a href="https://github.com/jstrieb/github-stats">
+![](https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/templates/himanshu/overview.svg)
+![](https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/templates/himanshu/languages.svg)
+</a>
+<!-- [![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=thehimanshu2041&show_icons=true&count_private=true)](https://github.com/thehimanshu2041/github-readme-stats)   -->
