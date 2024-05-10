@@ -25,7 +25,12 @@
 <a href="https://t.me/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/telegram.png" width="40" /></a>
 &nbsp;
 
-## 👨‍💻 Languages and Tools
+## 🤩 Languages and Tools
+
+<ul>
+  <li>You can Star ⭐ the repositories you like.</li>
+  <li>You can react ❤️ to my LinkedIn posts.</li>
+</ul>
 
 ![Himanshu's Github Profile Views](https://komarev.com/ghpvc/?username=thehimanshu2041&color=blueviolet)  
 
