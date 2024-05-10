@@ -30,8 +30,7 @@
   <summary>Who are you? 👨</summary>
   <pre>
   A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
-  My name describes my qualities,
+  technical systems to create impact. My name describes my qualities : 
    H: Hardworking
    I: Innovative
    M: Methodical
@@ -41,6 +40,16 @@
    H: Humble
    U: Understanding
   </pre>
+</details>
+<details>
+  <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
+  <ul>
+    <li>Consistency and Accuracy</li>
+    <li>Relevance to Industry Standards</li>
+    <li>Problem-Solving Skills</li>
+    <li>Feedback from Others</li>
+    <li>Continuous Learning</li>
+  </ul>
 </details>
 
 ## 🤩 What if you like my work?
