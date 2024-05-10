@@ -25,6 +25,24 @@
 <a href="https://t.me/thehimanshu2041"><img src="https://github.com/thehimanshu2041/thehimanshu2041/blob/main/assets/logo/social/telegram.png" width="40" /></a>
 &nbsp;
 
+## 😕 The Questions You May Have
+<details>
+  <summary>Who are you? 👨</summary>
+  <pre>
+  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
+  technical systems to create impact.<br>
+  My name describes my qualities,
+   H: Hardworking
+   I: Innovative
+   M: Methodical
+   A: Analytical
+   N: Nimble
+   S: Strategic
+   H: Humble
+   U: Understanding
+  </pre>
+</details>
+
 ## 🤩 What if you like my work?
 
 <ul>
