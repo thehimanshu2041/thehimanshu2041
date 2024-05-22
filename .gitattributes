@@ -1,3 +1,1 @@
-*.html linguist-language=html
-*.js linguist-language=js
-*.json linguist-language=json
+*.* linguist-language=html
