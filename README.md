@@ -41,7 +41,7 @@
      U: Understanding
   </pre>
 </details>
-<details>
+<details> 
   <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
   <ul>
     <li>Consistency and Accuracy</li>
